@@ -1,8 +1,10 @@
-package com.moringa.mygallery;
+package com.moringa.mygallery.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.moringa.mygallery.R;
 
 public class MainActivity extends AppCompatActivity {
 
